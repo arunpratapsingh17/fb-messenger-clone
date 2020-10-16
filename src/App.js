@@ -42,7 +42,7 @@ function App() {
     <div className="App">
       <Typography variant="h4" color="primary">
         {" "}
-        Hello Arun Pratap Singh!!
+        Arun Pratap Singh ka private group chat!!
       </Typography>
       <Typography variant="h3"> Welcome {username}!!</Typography>
       {/* Input Field */}
